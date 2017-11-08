@@ -1,0 +1,10 @@
+#cat {
+  margin: 100px auto;
+}
+
+
+table td {
+  border: 1px solid black;
+  width: 80px;
+  height: 80px;
+}
